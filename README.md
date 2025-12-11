@@ -5,8 +5,8 @@ I have not cleaned up the code from a late night coding session that I gave up w
 # Adding Built in Imgui and D2D.
 I have not currently added a D2D interop layer to be able to create D2D overlays with D3D for Imgui.
 - [x] Added functioning Imgui for overlay config.
-- [] D2D drawing support.
-- [] Added Transparency and click through (other than when Imgui window is open).
+- [ ] D2D drawing support.
+- [ ] Added Transparency and click through (other than when Imgui window is open).
 
 # Dependencies
 - [Dear Imui](https://github.com/ocornut/imgui)
